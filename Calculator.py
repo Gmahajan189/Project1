@@ -67,7 +67,6 @@ btnequals = tk.Button(root, text="=", command= evaluate_calculation, width=5)
 btnequals.grid(row=6,column=4)
 
 
-
 root.mainloop()
 
 
